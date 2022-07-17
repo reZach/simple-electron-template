@@ -1,0 +1,4 @@
+# simple-electron-template
+A _dead-simple_ Electron template for starting your Electron app. This template contains the necessary defaults in order for you to get off the ground running without requiring wasting time to configuration. This Electron template has a corresponding [blog post](https://www.debugandrelease.com/creating-a-simple-electron-application/) that walks through how this template was created and is helpful to serve as a tutorial to the Electron framework and how an Electron application is built from scratch (no previous Electron knowledge required).
+
+For a more full-fledged Electron template, please see [`secure-electron-template`](https://github.com/reZach/secure-electron-template/).
